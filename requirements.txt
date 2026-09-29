@@ -1,0 +1,9 @@
+gradio
+spaces
+pinecone
+llama-index
+llama-index-vector-stores-pinecone
+llama-index-readers-file
+pypdf
+llama-index-llms-openai
+llama-index-embeddings-openai
